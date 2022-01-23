@@ -1,0 +1,50 @@
+  403  conda env list
+  404  conda describe dev
+  405  conda --help
+  406  conda info dev
+  407  conda list dev
+  408  conda activate dev
+  409  python --version
+  410  conda create -n 03_crypto_arbitrage python=3.7.11 anaconda
+  411  conda activate 03_crypto_arbitrage
+  412  python --version
+  413  git status
+  414  pwd
+  415  cd 03_crypto_arbitrage
+  416  git status
+  417  git commit -m "[DOC] Update README.md with initial steps"
+  418  git add README.md
+  419  git commit -m "[DOC] Update README.md with initial steps"
+  420  git push
+  421  git status
+  422  git add Resources crypto_arbitrage.ipynb
+  423  git commit -m "[FTR] Add starter code"
+  424  git push
+  425  git status
+  426  git history
+  427  git log
+  428  git commit -m "[FTR] Step 3 Completed. Step 4 in progress"
+  429  git add crypto_arbitrage.ipynb
+  430  git commit -m "[FTR] Step 3 Completed. Step 4 in progress"
+  431  git push
+  432  git add crypto_arbitrage.ipynb
+  433  git commit -m "[FTR] Step 4 - Calculate spread return complete"
+  434  git add crypto_arbitrage.ipynb
+  435  git commit -m "[FTR] Module final answer completed"
+  436  git push
+  437  git add crypto_arbitrage.ipynb
+  438  git commit -m "[STY] Add better comments and docstring for methods"
+  439  git push
+  440  history
+  441* clear
+  442* jupyter lab
+  443  git add README.md
+  444  git commit -m "[STY] Update README.md with images"
+  445  git push
+  446  git add media
+  447  git commit -m "[DOC] Add screenshots for images in README.md"
+  448  git push
+  449  git status
+  450  git add README.md
+  451  git commit -m "[DOC] Update README.md with Contributors and LICENSE info"
+  452  git push
