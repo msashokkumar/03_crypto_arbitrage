@@ -69,3 +69,19 @@ The jupyter homepage will look like as follows:
 ![Jupyter Lab Homepage](/media/images/02_jupyter_lab_homepage.png?raw=true "Jupyter homepage.")
 
 From the file browser on the left side, open crypto_arbitrage.ipynb.
+
+---
+## Contributors
+
+```markdown
+{
+  "name": "Ashok Kumar Madhavi Selvaraj",
+  "email": "ashok.ms.kumar@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/msashokkumar"
+}
+```
+---
+
+## License
+
+Please refer to LICENSE.
